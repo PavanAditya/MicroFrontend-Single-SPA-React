@@ -9,5 +9,5 @@ This is a frontend-replica to the concept of Microservices used in any API build
 
 ## Article
 
-POC made with reference to the article on Micro Frontends. ![Micro Frontends Using Single-SPA and Module Federation](https://betterprogramming.pub/micro-frontends-using-single-spa-and-module-federation-81ec27d03aee)
+POC made with reference to the article on Micro Frontends. [Micro Frontends Using Single-SPA and Module Federation](https://betterprogramming.pub/micro-frontends-using-single-spa-and-module-federation-81ec27d03aee)
 
